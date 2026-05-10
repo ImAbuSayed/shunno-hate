@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shunno Hate
+
+This log tracks the cryptographic history and versioning for the song **Shunno Hate** (shunno-hate).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T10:17:55.181862 | `v1` | `3137adcaa255b369e879aec44b8bd3702191f2a72f45254146ca19368b0c33bf` | `3fc11aef6e2fe4dd4394c542de67bf9ec10451957ed79dc394720f9a6c493d34` | `2026-05-10_shunno-hate-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
