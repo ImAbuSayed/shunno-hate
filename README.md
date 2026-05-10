@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধুলোমাখা এই শহরে খুঁজছি শুধু তোমায়
+> বুকের ভেতর জমছে ব্যথা মাতাল শূন্যতায়
+> অন্ধকারের গায়ে মেখে জোনাক জ্বলা রাত
+> শূন্য হাতে আজও আমি খুঁজি তোমার হাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
